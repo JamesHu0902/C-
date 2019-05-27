@@ -1,0 +1,5 @@
+c:\cs2015\ch06\ConsoleProperty4\bin\Debug\ConsoleProperty4.exe.config
+c:\cs2015\ch06\ConsoleProperty4\bin\Debug\ConsoleProperty4.exe
+c:\cs2015\ch06\ConsoleProperty4\bin\Debug\ConsoleProperty4.pdb
+c:\cs2015\ch06\ConsoleProperty4\obj\Debug\ConsoleProperty4.exe
+c:\cs2015\ch06\ConsoleProperty4\obj\Debug\ConsoleProperty4.pdb

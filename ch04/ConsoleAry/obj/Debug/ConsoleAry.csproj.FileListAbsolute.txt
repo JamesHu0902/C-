@@ -1,0 +1,6 @@
+c:\cs2015\ch04\ConsoleAry\bin\Debug\ConsoleAry.exe.config
+c:\cs2015\ch04\ConsoleAry\bin\Debug\ConsoleAry.exe
+c:\cs2015\ch04\ConsoleAry\bin\Debug\ConsoleAry.pdb
+c:\cs2015\ch04\ConsoleAry\obj\Debug\ConsoleAry.exe
+c:\cs2015\ch04\ConsoleAry\obj\Debug\ConsoleAry.pdb
+C:\cs2015\ch04\ConsoleAry\obj\Debug\ConsoleAry.csprojResolveAssemblyReference.cache

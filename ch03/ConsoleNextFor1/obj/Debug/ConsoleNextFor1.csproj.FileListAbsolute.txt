@@ -1,0 +1,10 @@
+c:\cs2015\ch03\ConsoleNextFor1\bin\Debug\ConsoleNextFor1.exe.config
+c:\cs2015\ch03\ConsoleNextFor1\bin\Debug\ConsoleNextFor1.exe
+c:\cs2015\ch03\ConsoleNextFor1\bin\Debug\ConsoleNextFor1.pdb
+c:\cs2015\ch03\ConsoleNextFor1\obj\Debug\ConsoleNextFor1.exe
+c:\cs2015\ch03\ConsoleNextFor1\obj\Debug\ConsoleNextFor1.pdb
+C:\cs2015\ch03\ch03\ConsoleNextFor1\bin\Debug\ConsoleNextFor1.exe.config
+C:\cs2015\ch03\ch03\ConsoleNextFor1\obj\Debug\ConsoleNextFor1.exe
+C:\cs2015\ch03\ch03\ConsoleNextFor1\obj\Debug\ConsoleNextFor1.pdb
+C:\cs2015\ch03\ch03\ConsoleNextFor1\bin\Debug\ConsoleNextFor1.exe
+C:\cs2015\ch03\ch03\ConsoleNextFor1\bin\Debug\ConsoleNextFor1.pdb

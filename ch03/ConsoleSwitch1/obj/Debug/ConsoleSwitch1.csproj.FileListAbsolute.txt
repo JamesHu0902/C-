@@ -1,0 +1,6 @@
+C:\cs2015\ch03\ch03\ConsoleSwitch1\bin\Debug\ConsoleSwitch1.exe.config
+C:\cs2015\ch03\ch03\ConsoleSwitch1\bin\Debug\ConsoleSwitch1.exe
+C:\cs2015\ch03\ch03\ConsoleSwitch1\bin\Debug\ConsoleSwitch1.pdb
+C:\cs2015\ch03\ch03\ConsoleSwitch1\obj\Debug\ConsoleSwitch1.csprojResolveAssemblyReference.cache
+C:\cs2015\ch03\ch03\ConsoleSwitch1\obj\Debug\ConsoleSwitch1.exe
+C:\cs2015\ch03\ch03\ConsoleSwitch1\obj\Debug\ConsoleSwitch1.pdb

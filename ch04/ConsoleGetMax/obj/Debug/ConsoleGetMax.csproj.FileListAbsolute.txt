@@ -1,0 +1,5 @@
+c:\cs2015\ch04\ConsoleGetMax\bin\Debug\ConsoleGetMax.exe.config
+c:\cs2015\ch04\ConsoleGetMax\bin\Debug\ConsoleGetMax.exe
+c:\cs2015\ch04\ConsoleGetMax\bin\Debug\ConsoleGetMax.pdb
+c:\cs2015\ch04\ConsoleGetMax\obj\Debug\ConsoleGetMax.exe
+c:\cs2015\ch04\ConsoleGetMax\obj\Debug\ConsoleGetMax.pdb

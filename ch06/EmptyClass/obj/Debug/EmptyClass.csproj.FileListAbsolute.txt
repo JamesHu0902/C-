@@ -1,0 +1,6 @@
+C:\cs2015\ch06\ch06\EmptyClass\bin\Debug\EmptyClass.exe.config
+C:\cs2015\ch06\ch06\EmptyClass\bin\Debug\EmptyClass.exe
+C:\cs2015\ch06\ch06\EmptyClass\bin\Debug\EmptyClass.pdb
+C:\cs2015\ch06\ch06\EmptyClass\obj\Debug\EmptyClass.csprojResolveAssemblyReference.cache
+C:\cs2015\ch06\ch06\EmptyClass\obj\Debug\EmptyClass.exe
+C:\cs2015\ch06\ch06\EmptyClass\obj\Debug\EmptyClass.pdb

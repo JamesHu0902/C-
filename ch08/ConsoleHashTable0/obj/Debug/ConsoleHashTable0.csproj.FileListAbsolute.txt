@@ -1,0 +1,5 @@
+c:\cs2015\ch08\ConsoleHashTable0\bin\Debug\ConsoleHashTable0.exe.config
+c:\cs2015\ch08\ConsoleHashTable0\bin\Debug\ConsoleHashTable0.exe
+c:\cs2015\ch08\ConsoleHashTable0\bin\Debug\ConsoleHashTable0.pdb
+c:\cs2015\ch08\ConsoleHashTable0\obj\Debug\ConsoleHashTable0.exe
+c:\cs2015\ch08\ConsoleHashTable0\obj\Debug\ConsoleHashTable0.pdb

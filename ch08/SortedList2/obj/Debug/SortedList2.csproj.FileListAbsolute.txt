@@ -1,0 +1,5 @@
+C:\cs2015\ch08\ConsoleSortesList2\bin\Debug\SortedList2.exe.config
+C:\cs2015\ch08\ConsoleSortesList2\bin\Debug\SortedList2.exe
+C:\cs2015\ch08\ConsoleSortesList2\bin\Debug\SortedList2.pdb
+C:\cs2015\ch08\ConsoleSortesList2\obj\Debug\SortedList2.exe
+C:\cs2015\ch08\ConsoleSortesList2\obj\Debug\SortedList2.pdb

@@ -1,0 +1,5 @@
+c:\cs2015\ch06\ConsoleAccessor1\bin\Debug\ConsoleAccessor1.exe.config
+c:\cs2015\ch06\ConsoleAccessor1\bin\Debug\ConsoleAccessor1.exe
+c:\cs2015\ch06\ConsoleAccessor1\bin\Debug\ConsoleAccessor1.pdb
+c:\cs2015\ch06\ConsoleAccessor1\obj\Debug\ConsoleAccessor1.exe
+c:\cs2015\ch06\ConsoleAccessor1\obj\Debug\ConsoleAccessor1.pdb

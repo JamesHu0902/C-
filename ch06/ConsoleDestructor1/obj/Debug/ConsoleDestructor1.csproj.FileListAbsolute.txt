@@ -1,0 +1,5 @@
+c:\cs2015\ch06\ConsoleDestructor1\bin\Debug\ConsoleDestructor1.exe.config
+c:\cs2015\ch06\ConsoleDestructor1\bin\Debug\ConsoleDestructor1.exe
+c:\cs2015\ch06\ConsoleDestructor1\bin\Debug\ConsoleDestructor1.pdb
+c:\cs2015\ch06\ConsoleDestructor1\obj\Debug\ConsoleDestructor1.exe
+c:\cs2015\ch06\ConsoleDestructor1\obj\Debug\ConsoleDestructor1.pdb

@@ -1,0 +1,9 @@
+c:\cs2015\ch11\WinRadiobtnChkBx\bin\Debug\WinRadiobtnChkBx.exe.config
+c:\cs2015\ch11\WinRadiobtnChkBx\obj\Debug\WinRadiobtnChkBx.csprojResolveAssemblyReference.cache
+c:\cs2015\ch11\WinRadiobtnChkBx\obj\Debug\WinRadiobtnChkBx.Form1.resources
+c:\cs2015\ch11\WinRadiobtnChkBx\obj\Debug\WinRadiobtnChkBx.Properties.Resources.resources
+c:\cs2015\ch11\WinRadiobtnChkBx\obj\Debug\WinRadiobtnChkBx.csproj.GenerateResource.Cache
+c:\cs2015\ch11\WinRadiobtnChkBx\bin\Debug\WinRadiobtnChkBx.exe
+c:\cs2015\ch11\WinRadiobtnChkBx\bin\Debug\WinRadiobtnChkBx.pdb
+c:\cs2015\ch11\WinRadiobtnChkBx\obj\Debug\WinRadiobtnChkBx.exe
+c:\cs2015\ch11\WinRadiobtnChkBx\obj\Debug\WinRadiobtnChkBx.pdb

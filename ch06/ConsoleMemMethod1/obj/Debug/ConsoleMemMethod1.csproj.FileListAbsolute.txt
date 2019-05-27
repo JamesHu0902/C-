@@ -1,0 +1,5 @@
+c:\cs2015\ch06\ConsoleMemMethod1\bin\Debug\ConsoleMemMethod1.exe.config
+c:\cs2015\ch06\ConsoleMemMethod1\bin\Debug\ConsoleMemMethod1.exe
+c:\cs2015\ch06\ConsoleMemMethod1\bin\Debug\ConsoleMemMethod1.pdb
+c:\cs2015\ch06\ConsoleMemMethod1\obj\Debug\ConsoleMemMethod1.exe
+c:\cs2015\ch06\ConsoleMemMethod1\obj\Debug\ConsoleMemMethod1.pdb

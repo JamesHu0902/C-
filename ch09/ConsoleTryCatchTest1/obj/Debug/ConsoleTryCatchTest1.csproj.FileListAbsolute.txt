@@ -1,0 +1,12 @@
+c:\cs2015\ch08\ConsoleTryCatchTest1\bin\Debug\ConsoleTryCatchTest1.exe.config
+c:\cs2015\ch08\ConsoleTryCatchTest1\bin\Debug\ConsoleTryCatchTest1.exe
+c:\cs2015\ch08\ConsoleTryCatchTest1\bin\Debug\ConsoleTryCatchTest1.pdb
+c:\cs2015\ch08\ConsoleTryCatchTest1\obj\Debug\ConsoleTryCatchTest1.csprojResolveAssemblyReference.cache
+c:\cs2015\ch08\ConsoleTryCatchTest1\obj\Debug\ConsoleTryCatchTest1.exe
+c:\cs2015\ch08\ConsoleTryCatchTest1\obj\Debug\ConsoleTryCatchTest1.pdb
+C:\cs2015\ch09\ch09\ConsoleTryCatchTest1\bin\Debug\ConsoleTryCatchTest1.exe.config
+C:\cs2015\ch09\ch09\ConsoleTryCatchTest1\obj\Debug\ConsoleTryCatchTest1.exe
+C:\cs2015\ch09\ch09\ConsoleTryCatchTest1\obj\Debug\ConsoleTryCatchTest1.pdb
+C:\cs2015\ch09\ch09\ConsoleTryCatchTest1\bin\Debug\ConsoleTryCatchTest1.exe
+C:\cs2015\ch09\ch09\ConsoleTryCatchTest1\bin\Debug\ConsoleTryCatchTest1.pdb
+C:\cs2015\ch09\ch09\ConsoleTryCatchTest1\obj\Debug\ConsoleTryCatchTest1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+c:\cs2015\ch02\ConsoleFormat\bin\Debug\ConsoleFormat.exe.config
+c:\cs2015\ch02\ConsoleFormat\obj\Debug\ConsoleFormat.csprojResolveAssemblyReference.cache
+c:\cs2015\ch02\ConsoleFormat\bin\Debug\ConsoleFormat.exe
+c:\cs2015\ch02\ConsoleFormat\bin\Debug\ConsoleFormat.pdb
+c:\cs2015\ch02\ConsoleFormat\obj\Debug\ConsoleFormat.exe
+c:\cs2015\ch02\ConsoleFormat\obj\Debug\ConsoleFormat.pdb
+C:\cs2015\ch02\ch02\ConsoleFormat\bin\Debug\ConsoleFormat.exe.config
+C:\cs2015\ch02\ch02\ConsoleFormat\obj\Debug\ConsoleFormat.exe
+C:\cs2015\ch02\ch02\ConsoleFormat\obj\Debug\ConsoleFormat.pdb
+C:\cs2015\ch02\ch02\ConsoleFormat\bin\Debug\ConsoleFormat.exe
+C:\cs2015\ch02\ch02\ConsoleFormat\bin\Debug\ConsoleFormat.pdb
+C:\cs2015\ch02\ch02\ConsoleFormat\obj\Debug\ConsoleFormat.csprojResolveAssemblyReference.cache

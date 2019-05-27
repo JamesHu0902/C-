@@ -1,0 +1,5 @@
+c:\cs2015\ch09\ConsoleCal-Eng\bin\Debug\ConsoleCal-Eng.exe.config
+c:\cs2015\ch09\ConsoleCal-Eng\bin\Debug\ConsoleCal-Eng.exe
+c:\cs2015\ch09\ConsoleCal-Eng\bin\Debug\ConsoleCal-Eng.pdb
+c:\cs2015\ch09\ConsoleCal-Eng\obj\Debug\ConsoleCal-Eng.exe
+c:\cs2015\ch09\ConsoleCal-Eng\obj\Debug\ConsoleCal-Eng.pdb

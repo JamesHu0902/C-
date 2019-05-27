@@ -1,0 +1,24 @@
+c:\cs2015\ch13\WinToolStrip\bin\Debug\WinToolStrip.exe.config
+c:\cs2015\ch13\WinToolStrip\bin\Debug\WinToolStrip.exe
+c:\cs2015\ch13\WinToolStrip\bin\Debug\WinToolStrip.pdb
+c:\cs2015\ch13\WinToolStrip\obj\Debug\WinToolStrip.csprojResolveAssemblyReference.cache
+c:\cs2015\ch13\WinToolStrip\obj\Debug\WinToolStrip.Form1.resources
+c:\cs2015\ch13\WinToolStrip\obj\Debug\WinToolStrip.Properties.Resources.resources
+c:\cs2015\ch13\WinToolStrip\obj\Debug\WinToolStrip.csproj.GenerateResource.Cache
+c:\cs2015\ch13\WinToolStrip\obj\Debug\WinToolStrip.exe
+c:\cs2015\ch13\WinToolStrip\obj\Debug\WinToolStrip.pdb
+C:\cs2015\ch13\ToolStripContainer\WinToolStrip\bin\Debug\WinToolStrip.exe.config
+C:\cs2015\ch13\ToolStripContainer\WinToolStrip\obj\Debug\WinToolStrip.exe
+C:\cs2015\ch13\ToolStripContainer\WinToolStrip\obj\Debug\WinToolStrip.pdb
+C:\cs2015\ch13\ToolStripContainer\WinToolStrip - 結果\bin\Debug\WinToolStrip.exe.config
+C:\cs2015\ch13\ToolStripContainer\WinToolStrip - 結果\obj\Debug\WinToolStrip.exe
+C:\cs2015\ch13\ToolStripContainer\WinToolStrip - 結果\obj\Debug\WinToolStrip.pdb
+C:\cs2015\ch13\ToolStripContainer\WinToolStrip - 結果\bin\Debug\WinToolStrip.exe
+C:\cs2015\ch13\ToolStripContainer\WinToolStrip - 結果\bin\Debug\WinToolStrip.pdb
+C:\cs2015\ch13\ToolStripContainer\WinToolStrip - 結果\obj\Debug\WinToolStrip.csprojResolveAssemblyReference.cache
+C:\cs2015\ch13\ToolStripContainer\WinToolStrip - 結果\obj\Debug\WinToolStrip.Form1.resources
+C:\cs2015\ch13\ToolStripContainer\WinToolStrip - 結果\obj\Debug\WinToolStrip.Properties.Resources.resources
+C:\cs2015\ch13\ToolStripContainer\WinToolStrip - 結果\obj\Debug\WinToolStrip.csproj.GenerateResource.Cache
+C:\cs2015\ch13\WinToolStripContainer\bin\Debug\WinToolStrip.exe.config
+C:\cs2015\ch13\WinToolStripContainer\obj\Debug\WinToolStrip.exe
+C:\cs2015\ch13\WinToolStripContainer\obj\Debug\WinToolStrip.pdb

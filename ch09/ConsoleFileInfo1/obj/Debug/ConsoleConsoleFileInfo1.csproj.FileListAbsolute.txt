@@ -1,0 +1,5 @@
+c:\cs2015\ch09\ConsoleConsoleFileInfo1\bin\Debug\ConsoleConsoleFileInfo1.exe.config
+c:\cs2015\ch09\ConsoleConsoleFileInfo1\bin\Debug\ConsoleConsoleFileInfo1.exe
+c:\cs2015\ch09\ConsoleConsoleFileInfo1\bin\Debug\ConsoleConsoleFileInfo1.pdb
+c:\cs2015\ch09\ConsoleConsoleFileInfo1\obj\Debug\ConsoleConsoleFileInfo1.exe
+c:\cs2015\ch09\ConsoleConsoleFileInfo1\obj\Debug\ConsoleConsoleFileInfo1.pdb

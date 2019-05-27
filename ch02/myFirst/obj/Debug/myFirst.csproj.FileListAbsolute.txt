@@ -1,0 +1,12 @@
+c:\cs2015\ch02\myFirst\bin\Debug\myFirst.exe.config
+c:\cs2015\ch02\myFirst\bin\Debug\myFirst.exe
+c:\cs2015\ch02\myFirst\bin\Debug\myFirst.pdb
+c:\cs2015\ch02\myFirst\obj\Debug\myFirst.csprojResolveAssemblyReference.cache
+c:\cs2015\ch02\myFirst\obj\Debug\myFirst.exe
+c:\cs2015\ch02\myFirst\obj\Debug\myFirst.pdb
+C:\cs2015\ch02\ch02\myFirst\bin\Debug\myFirst.exe.config
+C:\cs2015\ch02\ch02\myFirst\obj\Debug\myFirst.exe
+C:\cs2015\ch02\ch02\myFirst\obj\Debug\myFirst.pdb
+C:\cs2015\ch02\ch02\myFirst\bin\Debug\myFirst.exe
+C:\cs2015\ch02\ch02\myFirst\bin\Debug\myFirst.pdb
+C:\cs2015\ch02\ch02\myFirst\obj\Debug\myFirst.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\cs2015\ch06\WinAbstractionDemo2\bin\Debug\WinAbstractionDemo2.exe.config
+C:\cs2015\ch06\WinAbstractionDemo2\obj\Debug\WinAbstractionDemo2.Form1.resources
+C:\cs2015\ch06\WinAbstractionDemo2\obj\Debug\WinAbstractionDemo2.Properties.Resources.resources
+C:\cs2015\ch06\WinAbstractionDemo2\obj\Debug\WinAbstractionDemo2.csproj.GenerateResource.Cache
+C:\cs2015\ch06\WinAbstractionDemo2\bin\Debug\WinAbstractionDemo2.exe
+C:\cs2015\ch06\WinAbstractionDemo2\bin\Debug\WinAbstractionDemo2.pdb
+C:\cs2015\ch06\WinAbstractionDemo2\obj\Debug\WinAbstractionDemo2.exe
+C:\cs2015\ch06\WinAbstractionDemo2\obj\Debug\WinAbstractionDemo2.pdb

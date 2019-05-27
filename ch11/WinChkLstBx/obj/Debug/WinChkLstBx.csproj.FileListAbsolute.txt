@@ -1,0 +1,8 @@
+c:\cs2015\ch11\WinChkLstBx\bin\Debug\WinChkLstBx.exe.config
+c:\cs2015\ch11\WinChkLstBx\obj\Debug\WinChkLstBx.Form1.resources
+c:\cs2015\ch11\WinChkLstBx\obj\Debug\WinChkLstBx.Properties.Resources.resources
+c:\cs2015\ch11\WinChkLstBx\obj\Debug\WinChkLstBx.csproj.GenerateResource.Cache
+c:\cs2015\ch11\WinChkLstBx\bin\Debug\WinChkLstBx.exe
+c:\cs2015\ch11\WinChkLstBx\bin\Debug\WinChkLstBx.pdb
+c:\cs2015\ch11\WinChkLstBx\obj\Debug\WinChkLstBx.exe
+c:\cs2015\ch11\WinChkLstBx\obj\Debug\WinChkLstBx.pdb

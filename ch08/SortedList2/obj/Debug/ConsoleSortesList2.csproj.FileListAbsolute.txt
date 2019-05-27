@@ -1,0 +1,5 @@
+c:\cs2015\ch08\ConsoleSortesList2\bin\Debug\ConsoleSortesList2.exe.config
+c:\cs2015\ch08\ConsoleSortesList2\bin\Debug\ConsoleSortesList2.exe
+c:\cs2015\ch08\ConsoleSortesList2\bin\Debug\ConsoleSortesList2.pdb
+c:\cs2015\ch08\ConsoleSortesList2\obj\Debug\ConsoleSortesList2.exe
+c:\cs2015\ch08\ConsoleSortesList2\obj\Debug\ConsoleSortesList2.pdb

@@ -1,0 +1,12 @@
+c:\cs2015\ch08\ConsoleStack0\bin\Debug\ConsoleStack0.exe.config
+c:\cs2015\ch08\ConsoleStack0\bin\Debug\ConsoleStack0.exe
+c:\cs2015\ch08\ConsoleStack0\bin\Debug\ConsoleStack0.pdb
+c:\cs2015\ch08\ConsoleStack0\obj\Debug\ConsoleStack0.exe
+c:\cs2015\ch08\ConsoleStack0\obj\Debug\ConsoleStack0.pdb
+C:\Users\cinphown\source\cs2015_CD\ch08\ConsoleStack0\bin\Debug\ConsoleStack0.exe.config
+C:\Users\cinphown\source\cs2015_CD\ch08\ConsoleStack0\bin\Debug\ConsoleStack0.exe
+C:\Users\cinphown\source\cs2015_CD\ch08\ConsoleStack0\bin\Debug\ConsoleStack0.pdb
+C:\Users\cinphown\source\cs2015_CD\ch08\ConsoleStack0\obj\Debug\ConsoleStack0.csprojAssemblyReference.cache
+C:\Users\cinphown\source\cs2015_CD\ch08\ConsoleStack0\obj\Debug\ConsoleStack0.csproj.CoreCompileInputs.cache
+C:\Users\cinphown\source\cs2015_CD\ch08\ConsoleStack0\obj\Debug\ConsoleStack0.exe
+C:\Users\cinphown\source\cs2015_CD\ch08\ConsoleStack0\obj\Debug\ConsoleStack0.pdb

@@ -1,0 +1,5 @@
+c:\cs2015\ch08\ConsoleSortedList1\bin\Debug\ConsoleSortedList1.exe.config
+c:\cs2015\ch08\ConsoleSortedList1\bin\Debug\ConsoleSortedList1.exe
+c:\cs2015\ch08\ConsoleSortedList1\bin\Debug\ConsoleSortedList1.pdb
+c:\cs2015\ch08\ConsoleSortedList1\obj\Debug\ConsoleSortedList1.exe
+c:\cs2015\ch08\ConsoleSortedList1\obj\Debug\ConsoleSortedList1.pdb

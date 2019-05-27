@@ -1,0 +1,9 @@
+c:\cs2015\ch15\WinPrint\bin\Debug\WinPrint.exe.config
+C:\cs2015\ch15\WinPrint\bin\Debug\WinPrint.exe
+C:\cs2015\ch15\WinPrint\bin\Debug\WinPrint.pdb
+C:\cs2015\ch15\WinPrint\obj\Debug\WinPrint.csprojResolveAssemblyReference.cache
+C:\cs2015\ch15\WinPrint\obj\Debug\WinPrint.Form1.resources
+C:\cs2015\ch15\WinPrint\obj\Debug\WinPrint.Properties.Resources.resources
+C:\cs2015\ch15\WinPrint\obj\Debug\WinPrint.csproj.GenerateResource.Cache
+C:\cs2015\ch15\WinPrint\obj\Debug\WinPrint.exe
+C:\cs2015\ch15\WinPrint\obj\Debug\WinPrint.pdb

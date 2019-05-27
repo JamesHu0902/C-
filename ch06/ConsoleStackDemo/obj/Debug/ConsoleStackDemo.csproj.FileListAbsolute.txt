@@ -1,0 +1,5 @@
+c:\cs2015\ch06\ConsoleStackDemo\bin\Debug\ConsoleStackDemo.exe.config
+c:\cs2015\ch06\ConsoleStackDemo\bin\Debug\ConsoleStackDemo.exe
+c:\cs2015\ch06\ConsoleStackDemo\bin\Debug\ConsoleStackDemo.pdb
+c:\cs2015\ch06\ConsoleStackDemo\obj\Debug\ConsoleStackDemo.exe
+c:\cs2015\ch06\ConsoleStackDemo\obj\Debug\ConsoleStackDemo.pdb

@@ -1,0 +1,5 @@
+C:\cs2015\ch06\ch06\ConsoleCallPropertyFunction2\bin\Debug\ConsoleCallPropertyFunction2.exe.config
+C:\cs2015\ch06\ch06\ConsoleCallPropertyFunction2\bin\Debug\ConsoleCallPropertyFunction2.exe
+C:\cs2015\ch06\ch06\ConsoleCallPropertyFunction2\bin\Debug\ConsoleCallPropertyFunction2.pdb
+C:\cs2015\ch06\ch06\ConsoleCallPropertyFunction2\obj\Debug\ConsoleCallPropertyFunction2.exe
+C:\cs2015\ch06\ch06\ConsoleCallPropertyFunction2\obj\Debug\ConsoleCallPropertyFunction2.pdb

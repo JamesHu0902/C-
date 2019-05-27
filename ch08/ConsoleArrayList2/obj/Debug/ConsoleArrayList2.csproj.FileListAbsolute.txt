@@ -1,0 +1,6 @@
+c:\cs2015\ch08\ConsoleArrayList2\bin\Debug\ConsoleArrayList2.exe.config
+c:\cs2015\ch08\ConsoleArrayList2\bin\Debug\ConsoleArrayList2.exe
+c:\cs2015\ch08\ConsoleArrayList2\bin\Debug\ConsoleArrayList2.pdb
+c:\cs2015\ch08\ConsoleArrayList2\obj\Debug\ConsoleArrayList2.csprojResolveAssemblyReference.cache
+c:\cs2015\ch08\ConsoleArrayList2\obj\Debug\ConsoleArrayList2.exe
+c:\cs2015\ch08\ConsoleArrayList2\obj\Debug\ConsoleArrayList2.pdb

@@ -1,0 +1,5 @@
+c:\cs2015\ch09\ConsoleReadWrite\bin\Debug\ConsoleReadWrite.exe.config
+c:\cs2015\ch09\ConsoleReadWrite\bin\Debug\ConsoleReadWrite.exe
+c:\cs2015\ch09\ConsoleReadWrite\bin\Debug\ConsoleReadWrite.pdb
+c:\cs2015\ch09\ConsoleReadWrite\obj\Debug\ConsoleReadWrite.exe
+c:\cs2015\ch09\ConsoleReadWrite\obj\Debug\ConsoleReadWrite.pdb

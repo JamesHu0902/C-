@@ -1,0 +1,10 @@
+c:\cs2015\ch11\WinImageList\bin\Debug\WinImageList.exe.config
+C:\cs2015\ch12\WinImageList\bin\Debug\WinImageList.exe.config
+C:\cs2015\ch12\WinImageList\obj\Debug\WinImageList.csprojResolveAssemblyReference.cache
+C:\cs2015\ch12\WinImageList\obj\Debug\WinImageList.Form1.resources
+C:\cs2015\ch12\WinImageList\obj\Debug\WinImageList.Properties.Resources.resources
+C:\cs2015\ch12\WinImageList\obj\Debug\WinImageList.csproj.GenerateResource.Cache
+C:\cs2015\ch12\WinImageList\bin\Debug\WinImageList.exe
+C:\cs2015\ch12\WinImageList\bin\Debug\WinImageList.pdb
+C:\cs2015\ch12\WinImageList\obj\Debug\WinImageList.exe
+C:\cs2015\ch12\WinImageList\obj\Debug\WinImageList.pdb

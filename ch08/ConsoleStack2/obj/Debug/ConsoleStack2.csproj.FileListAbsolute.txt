@@ -1,0 +1,5 @@
+c:\cs2015\ch08\ConsoleStack2\bin\Debug\ConsoleStack2.exe.config
+c:\cs2015\ch08\ConsoleStack2\bin\Debug\ConsoleStack2.exe
+c:\cs2015\ch08\ConsoleStack2\bin\Debug\ConsoleStack2.pdb
+c:\cs2015\ch08\ConsoleStack2\obj\Debug\ConsoleStack2.exe
+c:\cs2015\ch08\ConsoleStack2\obj\Debug\ConsoleStack2.pdb

@@ -1,0 +1,10 @@
+C:\cs2013\ch16\DB1\bin\Debug\DB1.exe.config
+C:\cs2013\ch16\DB1\bin\Debug\MyDB.mdf
+C:\cs2013\ch16\DB1\bin\Debug\MyDB_log.ldf
+C:\cs2013\ch16\DB1\bin\Debug\DB1.exe
+C:\cs2013\ch16\DB1\bin\Debug\DB1.pdb
+C:\cs2013\ch16\DB1\obj\Debug\DB1.csprojResolveAssemblyReference.cache
+C:\cs2013\ch16\DB1\obj\Debug\DB1.Properties.Resources.resources
+C:\cs2013\ch16\DB1\obj\Debug\DB1.csproj.GenerateResource.Cache
+C:\cs2013\ch16\DB1\obj\Debug\DB1.exe
+C:\cs2013\ch16\DB1\obj\Debug\DB1.pdb

@@ -1,0 +1,5 @@
+c:\cs2015\ch08\ConsoleCreateInstance1D\bin\Debug\ConsoleCreateInstance1D.exe.config
+c:\cs2015\ch08\ConsoleCreateInstance1D\bin\Debug\ConsoleCreateInstance1D.exe
+c:\cs2015\ch08\ConsoleCreateInstance1D\bin\Debug\ConsoleCreateInstance1D.pdb
+c:\cs2015\ch08\ConsoleCreateInstance1D\obj\Debug\ConsoleCreateInstance1D.exe
+c:\cs2015\ch08\ConsoleCreateInstance1D\obj\Debug\ConsoleCreateInstance1D.pdb

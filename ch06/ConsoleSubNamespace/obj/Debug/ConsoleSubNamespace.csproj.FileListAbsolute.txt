@@ -1,0 +1,5 @@
+c:\cs2015\ch06\ConsoleSubNamespace\bin\Debug\ConsoleSubNamespace.exe.config
+c:\cs2015\ch06\ConsoleSubNamespace\bin\Debug\ConsoleSubNamespace.exe
+c:\cs2015\ch06\ConsoleSubNamespace\bin\Debug\ConsoleSubNamespace.pdb
+c:\cs2015\ch06\ConsoleSubNamespace\obj\Debug\ConsoleSubNamespace.exe
+c:\cs2015\ch06\ConsoleSubNamespace\obj\Debug\ConsoleSubNamespace.pdb

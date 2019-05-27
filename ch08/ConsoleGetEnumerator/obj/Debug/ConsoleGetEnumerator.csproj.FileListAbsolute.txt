@@ -1,0 +1,12 @@
+c:\cs2015\ch08\ConsoleGetEnumerator\bin\Debug\ConsoleGetEnumerator.exe.config
+c:\cs2015\ch08\ConsoleGetEnumerator\bin\Debug\ConsoleGetEnumerator.exe
+c:\cs2015\ch08\ConsoleGetEnumerator\bin\Debug\ConsoleGetEnumerator.pdb
+c:\cs2015\ch08\ConsoleGetEnumerator\obj\Debug\ConsoleGetEnumerator.exe
+c:\cs2015\ch08\ConsoleGetEnumerator\obj\Debug\ConsoleGetEnumerator.pdb
+C:\Users\cinphown\source\cs2015_CD\ch08\ConsoleGetEnumerator\obj\Debug\ConsoleGetEnumerator.csprojAssemblyReference.cache
+C:\Users\cinphown\source\cs2015_CD\ch08\ConsoleGetEnumerator\obj\Debug\ConsoleGetEnumerator.csproj.CoreCompileInputs.cache
+C:\Users\cinphown\source\cs2015_CD\ch08\ConsoleGetEnumerator\obj\Debug\ConsoleGetEnumerator.exe
+C:\Users\cinphown\source\cs2015_CD\ch08\ConsoleGetEnumerator\obj\Debug\ConsoleGetEnumerator.pdb
+C:\Users\cinphown\source\cs2015_CD\ch08\ConsoleGetEnumerator\bin\Debug\ConsoleGetEnumerator.exe.config
+C:\Users\cinphown\source\cs2015_CD\ch08\ConsoleGetEnumerator\bin\Debug\ConsoleGetEnumerator.exe
+C:\Users\cinphown\source\cs2015_CD\ch08\ConsoleGetEnumerator\bin\Debug\ConsoleGetEnumerator.pdb

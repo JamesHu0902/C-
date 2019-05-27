@@ -1,0 +1,18 @@
+c:\cs2015\ch13\WinContextMentStrip\bin\Debug\WinContextMentStrip.exe.config
+C:\cs2015\ch13\ContextMenuStrip\WinContextMentStrip - 結果\bin\Debug\WinContextMentStrip.exe.config
+C:\cs2015\ch13\ContextMenuStrip\WinContextMentStrip - 結果\bin\Debug\WinContextMentStrip.exe
+C:\cs2015\ch13\ContextMenuStrip\WinContextMentStrip - 結果\bin\Debug\WinContextMentStrip.pdb
+C:\cs2015\ch13\ContextMenuStrip\WinContextMentStrip - 結果\obj\Debug\WinContextMentStrip.csprojResolveAssemblyReference.cache
+C:\cs2015\ch13\ContextMenuStrip\WinContextMentStrip - 結果\obj\Debug\WinContextMentStrip.Form1.resources
+C:\cs2015\ch13\ContextMenuStrip\WinContextMentStrip - 結果\obj\Debug\WinContextMentStrip.Properties.Resources.resources
+C:\cs2015\ch13\ContextMenuStrip\WinContextMentStrip - 結果\obj\Debug\WinContextMentStrip.csproj.GenerateResource.Cache
+C:\cs2015\ch13\ContextMenuStrip\WinContextMentStrip - 結果\obj\Debug\WinContextMentStrip.exe
+C:\cs2015\ch13\ContextMenuStrip\WinContextMentStrip - 結果\obj\Debug\WinContextMentStrip.pdb
+C:\cs2015\ch13\WinContextMentStrip\obj\Debug\WinContextMentStrip.exe
+C:\cs2015\ch13\WinContextMentStrip\obj\Debug\WinContextMentStrip.pdb
+C:\cs2015\ch13\WinContextMentStrip\bin\Debug\WinContextMentStrip.exe
+C:\cs2015\ch13\WinContextMentStrip\bin\Debug\WinContextMentStrip.pdb
+C:\cs2015\ch13\WinContextMentStrip\obj\Debug\WinContextMentStrip.csprojResolveAssemblyReference.cache
+C:\cs2015\ch13\WinContextMentStrip\obj\Debug\WinContextMentStrip.Form1.resources
+C:\cs2015\ch13\WinContextMentStrip\obj\Debug\WinContextMentStrip.Properties.Resources.resources
+C:\cs2015\ch13\WinContextMentStrip\obj\Debug\WinContextMentStrip.csproj.GenerateResource.Cache

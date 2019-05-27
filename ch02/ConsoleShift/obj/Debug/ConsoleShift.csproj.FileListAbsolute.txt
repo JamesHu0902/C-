@@ -1,0 +1,10 @@
+c:\cs2015\ch02\ConsoleShift\bin\Debug\ConsoleShift.exe.config
+c:\cs2015\ch02\ConsoleShift\bin\Debug\ConsoleShift.exe
+c:\cs2015\ch02\ConsoleShift\bin\Debug\ConsoleShift.pdb
+c:\cs2015\ch02\ConsoleShift\obj\Debug\ConsoleShift.exe
+c:\cs2015\ch02\ConsoleShift\obj\Debug\ConsoleShift.pdb
+C:\cs2015\ch02\ch02\ConsoleShift\bin\Debug\ConsoleShift.exe.config
+C:\cs2015\ch02\ch02\ConsoleShift\obj\Debug\ConsoleShift.exe
+C:\cs2015\ch02\ch02\ConsoleShift\obj\Debug\ConsoleShift.pdb
+C:\cs2015\ch02\ch02\ConsoleShift\bin\Debug\ConsoleShift.exe
+C:\cs2015\ch02\ch02\ConsoleShift\bin\Debug\ConsoleShift.pdb

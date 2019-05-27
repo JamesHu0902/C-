@@ -1,0 +1,7 @@
+C:\Users\cinphown\source\cs2015_CD\ch07\CH07_tset\CH07_tset\obj\Debug\CH07_tset.csprojAssemblyReference.cache
+C:\Users\cinphown\source\cs2015_CD\ch07\CH07_tset\CH07_tset\obj\Debug\CH07_tset.csproj.CoreCompileInputs.cache
+C:\Users\cinphown\source\cs2015_CD\ch07\CH07_tset\CH07_tset\bin\Debug\CH07_tset.exe.config
+C:\Users\cinphown\source\cs2015_CD\ch07\CH07_tset\CH07_tset\bin\Debug\CH07_tset.exe
+C:\Users\cinphown\source\cs2015_CD\ch07\CH07_tset\CH07_tset\bin\Debug\CH07_tset.pdb
+C:\Users\cinphown\source\cs2015_CD\ch07\CH07_tset\CH07_tset\obj\Debug\CH07_tset.exe
+C:\Users\cinphown\source\cs2015_CD\ch07\CH07_tset\CH07_tset\obj\Debug\CH07_tset.pdb

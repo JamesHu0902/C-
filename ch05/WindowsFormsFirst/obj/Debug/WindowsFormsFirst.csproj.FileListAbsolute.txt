@@ -1,0 +1,9 @@
+c:\cs2015\ch05\WindowsFormsFirst\bin\Debug\WindowsFormsFirst.exe.config
+c:\cs2015\ch05\WindowsFormsFirst\bin\Debug\WindowsFormsFirst.exe
+c:\cs2015\ch05\WindowsFormsFirst\bin\Debug\WindowsFormsFirst.pdb
+c:\cs2015\ch05\WindowsFormsFirst\obj\Debug\WindowsFormsFirst.csprojResolveAssemblyReference.cache
+c:\cs2015\ch05\WindowsFormsFirst\obj\Debug\WindowsFormsFirst.Form1.resources
+c:\cs2015\ch05\WindowsFormsFirst\obj\Debug\WindowsFormsFirst.Properties.Resources.resources
+c:\cs2015\ch05\WindowsFormsFirst\obj\Debug\WindowsFormsFirst.csproj.GenerateResource.Cache
+c:\cs2015\ch05\WindowsFormsFirst\obj\Debug\WindowsFormsFirst.exe
+c:\cs2015\ch05\WindowsFormsFirst\obj\Debug\WindowsFormsFirst.pdb

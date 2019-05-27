@@ -1,0 +1,8 @@
+C:\cs2015\ch13\WinToolStripContainer\obj\Debug\WinToolStripContainer.csproj.GenerateResource.Cache
+C:\cs2015\ch13\WinToolStripContainer\bin\Debug\WinToolStripContainer.exe.config
+C:\cs2015\ch13\WinToolStripContainer\bin\Debug\WinToolStripContainer.exe
+C:\cs2015\ch13\WinToolStripContainer\bin\Debug\WinToolStripContainer.pdb
+C:\cs2015\ch13\WinToolStripContainer\obj\Debug\WinToolStripContainer.Form1.resources
+C:\cs2015\ch13\WinToolStripContainer\obj\Debug\WinToolStripContainer.Properties.Resources.resources
+C:\cs2015\ch13\WinToolStripContainer\obj\Debug\WinToolStripContainer.exe
+C:\cs2015\ch13\WinToolStripContainer\obj\Debug\WinToolStripContainer.pdb

@@ -1,0 +1,12 @@
+c:\cs2015\ch03\ConsoleTenary\bin\Debug\ConsoleTenary.exe.config
+c:\cs2015\ch03\ConsoleTenary\bin\Debug\ConsoleTenary.exe
+c:\cs2015\ch03\ConsoleTenary\bin\Debug\ConsoleTenary.pdb
+c:\cs2015\ch03\ConsoleTenary\obj\Debug\ConsoleTenary.csprojResolveAssemblyReference.cache
+c:\cs2015\ch03\ConsoleTenary\obj\Debug\ConsoleTenary.exe
+c:\cs2015\ch03\ConsoleTenary\obj\Debug\ConsoleTenary.pdb
+C:\cs2015\ch03\ch03\ConsoleTenary\bin\Debug\ConsoleTenary.exe.config
+C:\cs2015\ch03\ch03\ConsoleTenary\obj\Debug\ConsoleTenary.exe
+C:\cs2015\ch03\ch03\ConsoleTenary\obj\Debug\ConsoleTenary.pdb
+C:\cs2015\ch03\ch03\ConsoleTenary\bin\Debug\ConsoleTenary.exe
+C:\cs2015\ch03\ch03\ConsoleTenary\bin\Debug\ConsoleTenary.pdb
+C:\cs2015\ch03\ch03\ConsoleTenary\obj\Debug\ConsoleTenary.csprojResolveAssemblyReference.cache

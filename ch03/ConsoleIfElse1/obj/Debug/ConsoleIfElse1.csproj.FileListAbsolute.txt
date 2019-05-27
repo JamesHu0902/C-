@@ -1,0 +1,12 @@
+c:\cs2015\ch03\ConsoleIfElse1\bin\Debug\ConsoleIfElse1.exe.config
+c:\cs2015\ch03\ConsoleIfElse1\obj\Debug\ConsoleIfElse1.csprojResolveAssemblyReference.cache
+c:\cs2015\ch03\ConsoleIfElse1\bin\Debug\ConsoleIfElse1.exe
+c:\cs2015\ch03\ConsoleIfElse1\bin\Debug\ConsoleIfElse1.pdb
+c:\cs2015\ch03\ConsoleIfElse1\obj\Debug\ConsoleIfElse1.exe
+c:\cs2015\ch03\ConsoleIfElse1\obj\Debug\ConsoleIfElse1.pdb
+C:\cs2015\ch03\ch03\ConsoleIfElse1\bin\Debug\ConsoleIfElse1.exe.config
+C:\cs2015\ch03\ch03\ConsoleIfElse1\obj\Debug\ConsoleIfElse1.exe
+C:\cs2015\ch03\ch03\ConsoleIfElse1\obj\Debug\ConsoleIfElse1.pdb
+C:\cs2015\ch03\ch03\ConsoleIfElse1\bin\Debug\ConsoleIfElse1.exe
+C:\cs2015\ch03\ch03\ConsoleIfElse1\bin\Debug\ConsoleIfElse1.pdb
+C:\cs2015\ch03\ch03\ConsoleIfElse1\obj\Debug\ConsoleIfElse1.csprojResolveAssemblyReference.cache

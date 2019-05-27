@@ -1,0 +1,5 @@
+c:\cs2015\ch08\ConsoleQueue1\bin\Debug\ConsoleQueue1.exe.config
+c:\cs2015\ch08\ConsoleQueue1\bin\Debug\ConsoleQueue1.exe
+c:\cs2015\ch08\ConsoleQueue1\bin\Debug\ConsoleQueue1.pdb
+c:\cs2015\ch08\ConsoleQueue1\obj\Debug\ConsoleQueue1.exe
+c:\cs2015\ch08\ConsoleQueue1\obj\Debug\ConsoleQueue1.pdb

@@ -1,0 +1,5 @@
+c:\cs2015\ch04\ConsoleStaticVar\bin\Debug\ConsoleStaticVar.exe.config
+c:\cs2015\ch04\ConsoleStaticVar\bin\Debug\ConsoleStaticVar.exe
+c:\cs2015\ch04\ConsoleStaticVar\bin\Debug\ConsoleStaticVar.pdb
+c:\cs2015\ch04\ConsoleStaticVar\obj\Debug\ConsoleStaticVar.exe
+c:\cs2015\ch04\ConsoleStaticVar\obj\Debug\ConsoleStaticVar.pdb

@@ -1,0 +1,1 @@
+c:\cs2015\ch12\WinMonthCalenda\bin\Debug\WinMonthCalenda.exe.config

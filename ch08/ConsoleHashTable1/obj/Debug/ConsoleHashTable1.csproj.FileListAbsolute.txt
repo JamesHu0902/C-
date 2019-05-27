@@ -1,0 +1,6 @@
+c:\cs2015\ch08\ConsoleHashTable1\bin\Debug\ConsoleHashTable1.exe.config
+c:\cs2015\ch08\ConsoleHashTable1\bin\Debug\ConsoleHashTable1.exe
+c:\cs2015\ch08\ConsoleHashTable1\bin\Debug\ConsoleHashTable1.pdb
+c:\cs2015\ch08\ConsoleHashTable1\obj\Debug\ConsoleHashTable1.csprojResolveAssemblyReference.cache
+c:\cs2015\ch08\ConsoleHashTable1\obj\Debug\ConsoleHashTable1.exe
+c:\cs2015\ch08\ConsoleHashTable1\obj\Debug\ConsoleHashTable1.pdb

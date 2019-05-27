@@ -1,0 +1,5 @@
+c:\cs2015\ch04\ConsoleSort1\bin\Debug\ConsoleSort1.exe.config
+c:\cs2015\ch04\ConsoleSort1\bin\Debug\ConsoleSort1.exe
+c:\cs2015\ch04\ConsoleSort1\bin\Debug\ConsoleSort1.pdb
+c:\cs2015\ch04\ConsoleSort1\obj\Debug\ConsoleSort1.exe
+c:\cs2015\ch04\ConsoleSort1\obj\Debug\ConsoleSort1.pdb

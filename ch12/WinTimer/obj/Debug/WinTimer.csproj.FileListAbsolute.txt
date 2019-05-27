@@ -1,0 +1,8 @@
+c:\cs2015\ch12\WinTimer\bin\Debug\WinTimer.exe.config
+c:\cs2015\ch12\WinTimer\obj\Debug\WinTimer.Form1.resources
+c:\cs2015\ch12\WinTimer\obj\Debug\WinTimer.Properties.Resources.resources
+c:\cs2015\ch12\WinTimer\obj\Debug\WinTimer.csproj.GenerateResource.Cache
+c:\cs2015\ch12\WinTimer\bin\Debug\WinTimer.exe
+c:\cs2015\ch12\WinTimer\bin\Debug\WinTimer.pdb
+c:\cs2015\ch12\WinTimer\obj\Debug\WinTimer.exe
+c:\cs2015\ch12\WinTimer\obj\Debug\WinTimer.pdb

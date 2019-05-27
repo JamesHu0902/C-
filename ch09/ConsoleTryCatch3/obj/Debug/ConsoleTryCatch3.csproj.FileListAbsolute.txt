@@ -1,0 +1,17 @@
+c:\cs2015\ch08\ConsoleTryCatch3\bin\Debug\ConsoleTryCatch3.exe.config
+c:\cs2015\ch08\ConsoleTryCatch3\bin\Debug\ConsoleTryCatch3.exe
+c:\cs2015\ch08\ConsoleTryCatch3\bin\Debug\ConsoleTryCatch3.pdb
+c:\cs2015\ch08\ConsoleTryCatch3\obj\Debug\ConsoleTryCatch3.exe
+c:\cs2015\ch08\ConsoleTryCatch3\obj\Debug\ConsoleTryCatch3.pdb
+C:\cs2015\ch09\ch09\ConsoleTryCatch3\bin\Debug\ConsoleTryCatch3.exe.config
+C:\cs2015\ch09\ch09\ConsoleTryCatch3\obj\Debug\ConsoleTryCatch3.exe
+C:\cs2015\ch09\ch09\ConsoleTryCatch3\obj\Debug\ConsoleTryCatch3.pdb
+C:\cs2015\ch09\ch09\ConsoleTryCatch3\bin\Debug\ConsoleTryCatch3.exe
+C:\cs2015\ch09\ch09\ConsoleTryCatch3\bin\Debug\ConsoleTryCatch3.pdb
+C:\Users\cinphown\source\cs2015_CD\ch09\ConsoleTryCatch3\bin\Debug\ConsoleTryCatch3.exe.config
+C:\Users\cinphown\source\cs2015_CD\ch09\ConsoleTryCatch3\bin\Debug\ConsoleTryCatch3.exe
+C:\Users\cinphown\source\cs2015_CD\ch09\ConsoleTryCatch3\bin\Debug\ConsoleTryCatch3.pdb
+C:\Users\cinphown\source\cs2015_CD\ch09\ConsoleTryCatch3\obj\Debug\ConsoleTryCatch3.csprojAssemblyReference.cache
+C:\Users\cinphown\source\cs2015_CD\ch09\ConsoleTryCatch3\obj\Debug\ConsoleTryCatch3.csproj.CoreCompileInputs.cache
+C:\Users\cinphown\source\cs2015_CD\ch09\ConsoleTryCatch3\obj\Debug\ConsoleTryCatch3.exe
+C:\Users\cinphown\source\cs2015_CD\ch09\ConsoleTryCatch3\obj\Debug\ConsoleTryCatch3.pdb

@@ -1,0 +1,5 @@
+c:\cs2015\ch04\ConsoleMethod1\bin\Debug\ConsoleMethod1.exe.config
+c:\cs2015\ch04\ConsoleMethod1\bin\Debug\ConsoleMethod1.exe
+c:\cs2015\ch04\ConsoleMethod1\bin\Debug\ConsoleMethod1.pdb
+c:\cs2015\ch04\ConsoleMethod1\obj\Debug\ConsoleMethod1.exe
+c:\cs2015\ch04\ConsoleMethod1\obj\Debug\ConsoleMethod1.pdb

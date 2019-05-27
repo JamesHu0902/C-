@@ -1,0 +1,10 @@
+c:\cs2015\ch08\ConsoleTryCatchTest2\bin\Debug\ConsoleTryCatchTest2.exe.config
+c:\cs2015\ch08\ConsoleTryCatchTest2\bin\Debug\ConsoleTryCatchTest2.exe
+c:\cs2015\ch08\ConsoleTryCatchTest2\bin\Debug\ConsoleTryCatchTest2.pdb
+c:\cs2015\ch08\ConsoleTryCatchTest2\obj\Debug\ConsoleTryCatchTest2.exe
+c:\cs2015\ch08\ConsoleTryCatchTest2\obj\Debug\ConsoleTryCatchTest2.pdb
+C:\cs2015\ch09\ch09\ConsoleTryCatchTest2\bin\Debug\ConsoleTryCatchTest2.exe.config
+C:\cs2015\ch09\ch09\ConsoleTryCatchTest2\obj\Debug\ConsoleTryCatchTest2.exe
+C:\cs2015\ch09\ch09\ConsoleTryCatchTest2\obj\Debug\ConsoleTryCatchTest2.pdb
+C:\cs2015\ch09\ch09\ConsoleTryCatchTest2\bin\Debug\ConsoleTryCatchTest2.exe
+C:\cs2015\ch09\ch09\ConsoleTryCatchTest2\bin\Debug\ConsoleTryCatchTest2.pdb

@@ -1,0 +1,5 @@
+C:\cs2015\ch06\ConsoleConstructor3\bin\Debug\ConsoleConstructor3.exe.config
+C:\cs2015\ch06\ConsoleConstructor3\bin\Debug\ConsoleConstructor3.exe
+C:\cs2015\ch06\ConsoleConstructor3\bin\Debug\ConsoleConstructor3.pdb
+C:\cs2015\ch06\ConsoleConstructor3\obj\Debug\ConsoleConstructor3.exe
+C:\cs2015\ch06\ConsoleConstructor3\obj\Debug\ConsoleConstructor3.pdb

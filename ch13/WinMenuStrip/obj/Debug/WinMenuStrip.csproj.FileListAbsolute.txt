@@ -1,0 +1,8 @@
+c:\cs2015\ch13\WinMenuStrip\bin\Debug\WinMenuStrip.exe.config
+c:\cs2015\ch13\WinMenuStrip\bin\Debug\WinMenuStrip.exe
+c:\cs2015\ch13\WinMenuStrip\bin\Debug\WinMenuStrip.pdb
+c:\cs2015\ch13\WinMenuStrip\obj\Debug\WinMenuStrip.Form1.resources
+c:\cs2015\ch13\WinMenuStrip\obj\Debug\WinMenuStrip.Properties.Resources.resources
+c:\cs2015\ch13\WinMenuStrip\obj\Debug\WinMenuStrip.csproj.GenerateResource.Cache
+c:\cs2015\ch13\WinMenuStrip\obj\Debug\WinMenuStrip.exe
+c:\cs2015\ch13\WinMenuStrip\obj\Debug\WinMenuStrip.pdb
