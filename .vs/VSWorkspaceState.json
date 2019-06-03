@@ -1,12 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ch15",
+    "\\ch09",
+    "\\CH09 test",
+    "\\CH09 test\\CH09 test",
+    "\\ch09\\ConsoleFileInfo1",
+    "\\ch09\\ConsoleReadWrite",
     "\\ch15\\MDIMultiFormEx",
     "\\ch15\\WinMultiForm",
     "\\ch15\\WinOpenSaveDialog",
     "\\ch15\\WinPrint"
   ],
-  "SelectedNode": "\\ch15\\MDIMultiFormEx\\MDIMutilFormEx.sln",
+  "SelectedNode": "\\ch09\\ConsoleFileInfo1\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

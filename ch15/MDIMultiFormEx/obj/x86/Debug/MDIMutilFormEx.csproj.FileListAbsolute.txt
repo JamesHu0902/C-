@@ -39,3 +39,14 @@ C:\Users\cinphown\source\cs2015_CD\ch15\MDIMultiFormEx\obj\x86\Debug\MDIMutilFor
 C:\Users\cinphown\source\cs2015_CD\ch15\MDIMultiFormEx\obj\x86\Debug\MDIMutilFormEx.exe
 C:\Users\cinphown\source\cs2015_CD\ch15\MDIMultiFormEx\obj\x86\Debug\MDIMutilFormEx.pdb
 C:\Users\cinphown\source\cs2015_CD\ch15\MDIMultiFormEx\obj\x86\Debug\MDIMutilFormEx.frmMain.resources
+C:\Users\Owner\source\C#\ch15\MDIMultiFormEx\bin\Debug\MDIMutilFormEx.exe
+C:\Users\Owner\source\C#\ch15\MDIMultiFormEx\bin\Debug\MDIMutilFormEx.pdb
+C:\Users\Owner\source\C#\ch15\MDIMultiFormEx\obj\x86\Debug\MDIMutilFormEx.csprojAssemblyReference.cache
+C:\Users\Owner\source\C#\ch15\MDIMultiFormEx\obj\x86\Debug\MDIMutilFormEx.frmBar.resources
+C:\Users\Owner\source\C#\ch15\MDIMultiFormEx\obj\x86\Debug\MDIMutilFormEx.frmMain.resources
+C:\Users\Owner\source\C#\ch15\MDIMultiFormEx\obj\x86\Debug\MDIMutilFormEx.frmMemory.resources
+C:\Users\Owner\source\C#\ch15\MDIMultiFormEx\obj\x86\Debug\MDIMutilFormEx.Properties.Resources.resources
+C:\Users\Owner\source\C#\ch15\MDIMultiFormEx\obj\x86\Debug\MDIMutilFormEx.csproj.GenerateResource.cache
+C:\Users\Owner\source\C#\ch15\MDIMultiFormEx\obj\x86\Debug\MDIMutilFormEx.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\C#\ch15\MDIMultiFormEx\obj\x86\Debug\MDIMutilFormEx.exe
+C:\Users\Owner\source\C#\ch15\MDIMultiFormEx\obj\x86\Debug\MDIMutilFormEx.pdb
