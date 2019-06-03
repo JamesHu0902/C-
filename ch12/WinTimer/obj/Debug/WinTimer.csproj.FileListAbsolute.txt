@@ -6,3 +6,12 @@ c:\cs2015\ch12\WinTimer\bin\Debug\WinTimer.exe
 c:\cs2015\ch12\WinTimer\bin\Debug\WinTimer.pdb
 c:\cs2015\ch12\WinTimer\obj\Debug\WinTimer.exe
 c:\cs2015\ch12\WinTimer\obj\Debug\WinTimer.pdb
+C:\Users\cinphown\source\cs2015_CD\ch12\WinTimer\bin\Debug\WinTimer.exe.config
+C:\Users\cinphown\source\cs2015_CD\ch12\WinTimer\bin\Debug\WinTimer.exe
+C:\Users\cinphown\source\cs2015_CD\ch12\WinTimer\bin\Debug\WinTimer.pdb
+C:\Users\cinphown\source\cs2015_CD\ch12\WinTimer\obj\Debug\WinTimer.Form1.resources
+C:\Users\cinphown\source\cs2015_CD\ch12\WinTimer\obj\Debug\WinTimer.Properties.Resources.resources
+C:\Users\cinphown\source\cs2015_CD\ch12\WinTimer\obj\Debug\WinTimer.csproj.GenerateResource.cache
+C:\Users\cinphown\source\cs2015_CD\ch12\WinTimer\obj\Debug\WinTimer.csproj.CoreCompileInputs.cache
+C:\Users\cinphown\source\cs2015_CD\ch12\WinTimer\obj\Debug\WinTimer.exe
+C:\Users\cinphown\source\cs2015_CD\ch12\WinTimer\obj\Debug\WinTimer.pdb

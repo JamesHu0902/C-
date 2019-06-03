@@ -7,3 +7,13 @@ c:\cs2015\ch10\WinToolTip1\bin\Debug\WinToolTip1.pdb
 c:\cs2015\ch10\WinToolTip1\obj\Debug\WinToolTip1.exe
 c:\cs2015\ch10\WinToolTip1\obj\Debug\WinToolTip1.pdb
 C:\cs2015\ch10\WinToolTip1\obj\Debug\WinToolTip1.csprojResolveAssemblyReference.cache
+C:\Users\cinphown\source\cs2015_CD\ch10\WinToolTip1\bin\Debug\WinToolTip1.exe.config
+C:\Users\cinphown\source\cs2015_CD\ch10\WinToolTip1\bin\Debug\WinToolTip1.exe
+C:\Users\cinphown\source\cs2015_CD\ch10\WinToolTip1\bin\Debug\WinToolTip1.pdb
+C:\Users\cinphown\source\cs2015_CD\ch10\WinToolTip1\obj\Debug\WinToolTip1.csprojAssemblyReference.cache
+C:\Users\cinphown\source\cs2015_CD\ch10\WinToolTip1\obj\Debug\WinToolTip1.Form1.resources
+C:\Users\cinphown\source\cs2015_CD\ch10\WinToolTip1\obj\Debug\WinToolTip1.Properties.Resources.resources
+C:\Users\cinphown\source\cs2015_CD\ch10\WinToolTip1\obj\Debug\WinToolTip1.csproj.GenerateResource.cache
+C:\Users\cinphown\source\cs2015_CD\ch10\WinToolTip1\obj\Debug\WinToolTip1.csproj.CoreCompileInputs.cache
+C:\Users\cinphown\source\cs2015_CD\ch10\WinToolTip1\obj\Debug\WinToolTip1.exe
+C:\Users\cinphown\source\cs2015_CD\ch10\WinToolTip1\obj\Debug\WinToolTip1.pdb

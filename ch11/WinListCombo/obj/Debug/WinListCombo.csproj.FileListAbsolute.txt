@@ -7,3 +7,13 @@ c:\cs2015\ch11\WinListCombo\bin\Debug\WinListCombo.exe
 c:\cs2015\ch11\WinListCombo\bin\Debug\WinListCombo.pdb
 c:\cs2015\ch11\WinListCombo\obj\Debug\WinListCombo.exe
 c:\cs2015\ch11\WinListCombo\obj\Debug\WinListCombo.pdb
+C:\Users\cinphown\source\cs2015_CD\ch11\WinListCombo\bin\Debug\WinListCombo.exe.config
+C:\Users\cinphown\source\cs2015_CD\ch11\WinListCombo\bin\Debug\WinListCombo.exe
+C:\Users\cinphown\source\cs2015_CD\ch11\WinListCombo\bin\Debug\WinListCombo.pdb
+C:\Users\cinphown\source\cs2015_CD\ch11\WinListCombo\obj\Debug\WinListCombo.csprojAssemblyReference.cache
+C:\Users\cinphown\source\cs2015_CD\ch11\WinListCombo\obj\Debug\WinListCombo.Form1.resources
+C:\Users\cinphown\source\cs2015_CD\ch11\WinListCombo\obj\Debug\WinListCombo.Properties.Resources.resources
+C:\Users\cinphown\source\cs2015_CD\ch11\WinListCombo\obj\Debug\WinListCombo.csproj.GenerateResource.cache
+C:\Users\cinphown\source\cs2015_CD\ch11\WinListCombo\obj\Debug\WinListCombo.csproj.CoreCompileInputs.cache
+C:\Users\cinphown\source\cs2015_CD\ch11\WinListCombo\obj\Debug\WinListCombo.exe
+C:\Users\cinphown\source\cs2015_CD\ch11\WinListCombo\obj\Debug\WinListCombo.pdb

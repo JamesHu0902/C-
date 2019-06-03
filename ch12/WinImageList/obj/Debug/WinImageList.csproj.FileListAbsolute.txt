@@ -8,3 +8,13 @@ C:\cs2015\ch12\WinImageList\bin\Debug\WinImageList.exe
 C:\cs2015\ch12\WinImageList\bin\Debug\WinImageList.pdb
 C:\cs2015\ch12\WinImageList\obj\Debug\WinImageList.exe
 C:\cs2015\ch12\WinImageList\obj\Debug\WinImageList.pdb
+C:\Users\cinphown\source\cs2015_CD\ch12\WinImageList\bin\Debug\WinImageList.exe.config
+C:\Users\cinphown\source\cs2015_CD\ch12\WinImageList\bin\Debug\WinImageList.exe
+C:\Users\cinphown\source\cs2015_CD\ch12\WinImageList\bin\Debug\WinImageList.pdb
+C:\Users\cinphown\source\cs2015_CD\ch12\WinImageList\obj\Debug\WinImageList.csprojAssemblyReference.cache
+C:\Users\cinphown\source\cs2015_CD\ch12\WinImageList\obj\Debug\WinImageList.Form1.resources
+C:\Users\cinphown\source\cs2015_CD\ch12\WinImageList\obj\Debug\WinImageList.Properties.Resources.resources
+C:\Users\cinphown\source\cs2015_CD\ch12\WinImageList\obj\Debug\WinImageList.csproj.GenerateResource.cache
+C:\Users\cinphown\source\cs2015_CD\ch12\WinImageList\obj\Debug\WinImageList.csproj.CoreCompileInputs.cache
+C:\Users\cinphown\source\cs2015_CD\ch12\WinImageList\obj\Debug\WinImageList.exe
+C:\Users\cinphown\source\cs2015_CD\ch12\WinImageList\obj\Debug\WinImageList.pdb

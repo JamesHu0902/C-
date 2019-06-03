@@ -39,11 +39,11 @@ namespace WinGuess
         // 按 <確定> 鈕 執行     
         private void btnOk_Click(object sender, EventArgs e)
         {
-            count += 1;
             int myguess = 0;
             try
             {
                 myguess = int.Parse(txtGuess.Text);
+                count += 1;
             }
             catch
             {

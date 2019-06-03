@@ -15,7 +15,7 @@ namespace MDIMutilFormEx
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmMemory ());
+            Application.Run(new frmMain ());
         }
     }
 }

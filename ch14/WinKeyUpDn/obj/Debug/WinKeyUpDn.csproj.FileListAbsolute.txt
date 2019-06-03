@@ -25,3 +25,13 @@ C:\cs2015\ch14\WinKeyUpDn\obj\Debug\WinKeyUpDn.csprojResolveAssemblyReference.ca
 C:\cs2015\ch14\WinKeyUpDn\obj\Debug\WinKeyUpDn.Form1.resources
 C:\cs2015\ch14\WinKeyUpDn\obj\Debug\WinKeyUpDn.Properties.Resources.resources
 C:\cs2015\ch14\WinKeyUpDn\obj\Debug\WinKeyUpDn.csproj.GenerateResource.Cache
+C:\Users\cinphown\source\cs2015_CD\ch14\WinKeyUpDn\bin\Debug\WinKeyUpDn.exe.config
+C:\Users\cinphown\source\cs2015_CD\ch14\WinKeyUpDn\bin\Debug\WinKeyUpDn.exe
+C:\Users\cinphown\source\cs2015_CD\ch14\WinKeyUpDn\bin\Debug\WinKeyUpDn.pdb
+C:\Users\cinphown\source\cs2015_CD\ch14\WinKeyUpDn\obj\Debug\WinKeyUpDn.csprojAssemblyReference.cache
+C:\Users\cinphown\source\cs2015_CD\ch14\WinKeyUpDn\obj\Debug\WinKeyUpDn.Form1.resources
+C:\Users\cinphown\source\cs2015_CD\ch14\WinKeyUpDn\obj\Debug\WinKeyUpDn.Properties.Resources.resources
+C:\Users\cinphown\source\cs2015_CD\ch14\WinKeyUpDn\obj\Debug\WinKeyUpDn.csproj.GenerateResource.cache
+C:\Users\cinphown\source\cs2015_CD\ch14\WinKeyUpDn\obj\Debug\WinKeyUpDn.csproj.CoreCompileInputs.cache
+C:\Users\cinphown\source\cs2015_CD\ch14\WinKeyUpDn\obj\Debug\WinKeyUpDn.exe
+C:\Users\cinphown\source\cs2015_CD\ch14\WinKeyUpDn\obj\Debug\WinKeyUpDn.pdb

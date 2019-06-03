@@ -1,0 +1,10 @@
+C:\Users\cinphown\source\cs2015_CD\CH10 test\bin\Debug\CH10 test.exe.config
+C:\Users\cinphown\source\cs2015_CD\CH10 test\bin\Debug\CH10 test.exe
+C:\Users\cinphown\source\cs2015_CD\CH10 test\bin\Debug\CH10 test.pdb
+C:\Users\cinphown\source\cs2015_CD\CH10 test\obj\Debug\CH10 test.csprojAssemblyReference.cache
+C:\Users\cinphown\source\cs2015_CD\CH10 test\obj\Debug\CH10_test.Form1.resources
+C:\Users\cinphown\source\cs2015_CD\CH10 test\obj\Debug\CH10_test.Properties.Resources.resources
+C:\Users\cinphown\source\cs2015_CD\CH10 test\obj\Debug\CH10 test.csproj.GenerateResource.cache
+C:\Users\cinphown\source\cs2015_CD\CH10 test\obj\Debug\CH10 test.csproj.CoreCompileInputs.cache
+C:\Users\cinphown\source\cs2015_CD\CH10 test\obj\Debug\CH10 test.exe
+C:\Users\cinphown\source\cs2015_CD\CH10 test\obj\Debug\CH10 test.pdb

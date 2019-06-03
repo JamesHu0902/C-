@@ -7,3 +7,13 @@ c:\cs2015\ch10\WinGuess\bin\Debug\WinGuess.pdb
 c:\cs2015\ch10\WinGuess\obj\Debug\WinGuess.exe
 c:\cs2015\ch10\WinGuess\obj\Debug\WinGuess.pdb
 c:\cs2015\ch10\WinGuess\obj\Debug\WinGuess.csprojResolveAssemblyReference.cache
+C:\Users\cinphown\source\cs2015_CD\ch10\WinGuess\bin\Debug\WinGuess.exe.config
+C:\Users\cinphown\source\cs2015_CD\ch10\WinGuess\bin\Debug\WinGuess.exe
+C:\Users\cinphown\source\cs2015_CD\ch10\WinGuess\bin\Debug\WinGuess.pdb
+C:\Users\cinphown\source\cs2015_CD\ch10\WinGuess\obj\Debug\WinGuess.csprojAssemblyReference.cache
+C:\Users\cinphown\source\cs2015_CD\ch10\WinGuess\obj\Debug\WinGuess.Form1.resources
+C:\Users\cinphown\source\cs2015_CD\ch10\WinGuess\obj\Debug\WinGuess.Properties.Resources.resources
+C:\Users\cinphown\source\cs2015_CD\ch10\WinGuess\obj\Debug\WinGuess.csproj.GenerateResource.cache
+C:\Users\cinphown\source\cs2015_CD\ch10\WinGuess\obj\Debug\WinGuess.csproj.CoreCompileInputs.cache
+C:\Users\cinphown\source\cs2015_CD\ch10\WinGuess\obj\Debug\WinGuess.exe
+C:\Users\cinphown\source\cs2015_CD\ch10\WinGuess\obj\Debug\WinGuess.pdb

@@ -8,3 +8,13 @@ C:\cs2015\ch12\WinPictureBox\obj\Debug\WinPictureBox.Properties.Resources.resour
 C:\cs2015\ch12\WinPictureBox\obj\Debug\WinPictureBox.csproj.GenerateResource.Cache
 C:\cs2015\ch12\WinPictureBox\obj\Debug\WinPictureBox.exe
 C:\cs2015\ch12\WinPictureBox\obj\Debug\WinPictureBox.pdb
+C:\Users\cinphown\source\cs2015_CD\ch12\WinPictureBox\bin\Debug\WinPictureBox.exe.config
+C:\Users\cinphown\source\cs2015_CD\ch12\WinPictureBox\bin\Debug\WinPictureBox.exe
+C:\Users\cinphown\source\cs2015_CD\ch12\WinPictureBox\bin\Debug\WinPictureBox.pdb
+C:\Users\cinphown\source\cs2015_CD\ch12\WinPictureBox\obj\Debug\WinPictureBox.csprojAssemblyReference.cache
+C:\Users\cinphown\source\cs2015_CD\ch12\WinPictureBox\obj\Debug\WinPictureBox.Form1.resources
+C:\Users\cinphown\source\cs2015_CD\ch12\WinPictureBox\obj\Debug\WinPictureBox.Properties.Resources.resources
+C:\Users\cinphown\source\cs2015_CD\ch12\WinPictureBox\obj\Debug\WinPictureBox.csproj.GenerateResource.cache
+C:\Users\cinphown\source\cs2015_CD\ch12\WinPictureBox\obj\Debug\WinPictureBox.csproj.CoreCompileInputs.cache
+C:\Users\cinphown\source\cs2015_CD\ch12\WinPictureBox\obj\Debug\WinPictureBox.exe
+C:\Users\cinphown\source\cs2015_CD\ch12\WinPictureBox\obj\Debug\WinPictureBox.pdb

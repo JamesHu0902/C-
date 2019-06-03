@@ -7,3 +7,13 @@ C:\cs2015\ch15\WinPrint\obj\Debug\WinPrint.Properties.Resources.resources
 C:\cs2015\ch15\WinPrint\obj\Debug\WinPrint.csproj.GenerateResource.Cache
 C:\cs2015\ch15\WinPrint\obj\Debug\WinPrint.exe
 C:\cs2015\ch15\WinPrint\obj\Debug\WinPrint.pdb
+C:\Users\cinphown\source\cs2015_CD\ch15\WinPrint\bin\Debug\WinPrint.exe.config
+C:\Users\cinphown\source\cs2015_CD\ch15\WinPrint\bin\Debug\WinPrint.exe
+C:\Users\cinphown\source\cs2015_CD\ch15\WinPrint\bin\Debug\WinPrint.pdb
+C:\Users\cinphown\source\cs2015_CD\ch15\WinPrint\obj\Debug\WinPrint.csprojAssemblyReference.cache
+C:\Users\cinphown\source\cs2015_CD\ch15\WinPrint\obj\Debug\WinPrint.Form1.resources
+C:\Users\cinphown\source\cs2015_CD\ch15\WinPrint\obj\Debug\WinPrint.Properties.Resources.resources
+C:\Users\cinphown\source\cs2015_CD\ch15\WinPrint\obj\Debug\WinPrint.csproj.GenerateResource.cache
+C:\Users\cinphown\source\cs2015_CD\ch15\WinPrint\obj\Debug\WinPrint.csproj.CoreCompileInputs.cache
+C:\Users\cinphown\source\cs2015_CD\ch15\WinPrint\obj\Debug\WinPrint.exe
+C:\Users\cinphown\source\cs2015_CD\ch15\WinPrint\obj\Debug\WinPrint.pdb

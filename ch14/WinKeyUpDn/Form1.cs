@@ -77,7 +77,7 @@ namespace WinKeyUpDn
                 case Keys.Right:   // 判斷是否按鍵盤右鍵
                     picTank.Image = picTankR.Image;
                     if (picTank.Left >= this.Width)
-                    {
+                    {+
                         picTank.Left = 0 - picTank.Width;
                     }
                     else

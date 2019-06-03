@@ -1,15 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ch08",
-    "\\ch08\\ConsoleArrayList",
-    "\\ch08\\ConsoleArrayList1",
-    "\\ch08\\ConsoleArrayList2",
-    "\\ch08\\ConsoleCreateInstance2D",
-    "\\ch08\\ConsoleQueue0",
-    "\\ch08\\ConsoleQueue1",
-    "\\ch08\\ConsoleQueue2"
+    "\\ch15",
+    "\\ch15\\MDIMultiFormEx",
+    "\\ch15\\WinMultiForm",
+    "\\ch15\\WinOpenSaveDialog",
+    "\\ch15\\WinPrint"
   ],
-  "SelectedNode": "\\ch08\\ConsoleQueue1\\Program.cs",
+  "SelectedNode": "\\ch15\\MDIMultiFormEx\\MDIMutilFormEx.sln",
   "PreviewInSolutionExplorer": false
 }
