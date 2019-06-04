@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ch09",
-    "\\CH09 test",
-    "\\CH09 test\\CH09 test",
-    "\\ch09\\ConsoleFileInfo1",
-    "\\ch09\\ConsoleReadWrite",
-    "\\ch15\\MDIMultiFormEx",
-    "\\ch15\\WinMultiForm",
-    "\\ch15\\WinOpenSaveDialog",
-    "\\ch15\\WinPrint"
+    "\\CH09test",
+    "\\CH09test\\CH09test3",
+    "\\ch09\\ConsoleInheritsException",
+    "\\ch11",
+    "\\CH11test",
+    "\\CH11test\\CH09test2",
+    "\\CH11test\\CH11test",
+    "\\CH11test\\CH11test3",
+    "\\ch11\\WinListCombo"
   ],
-  "SelectedNode": "\\ch09\\ConsoleFileInfo1\\Program.cs",
+  "SelectedNode": "\\ch11\\WinListCombo\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }

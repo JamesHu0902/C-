@@ -12,34 +12,27 @@ namespace CH09_test
         static void Main(string[] args)
         {
             string temp, fname1,fname2;
-            //宣告StreamReader的sr物件, 用來讀出資料
-            StreamReader sr;
-            //宣告StreamWriter的sw物件, 用來寫入資料
-            StreamWriter sw;
-            string f1;
-            string f2;
+            FileInfo f1;
+            FileInfo f2;
             // 開新檔案
-            FileInfo newfile = new FileInfo("C:\\Users\\Owner\\source\\C#\\CH09test\finally.txt");
-            sw = newfile.CreateText();
+            FileInfo newfile = new FileInfo("C:\\Users\\cinphown\\source\\cs2015_CD\\CH09test\\new.txt");
+            
             Console.Write("1. 請輸入要讀寫的檔案路徑->");
             fname1 = Console.ReadLine();
             try
             {
-                f1 = new FileInfo(fname1);
-                temp = f1.OpenText();
-                sw = newfile.CopyTo(temp);
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine("檔案路徑有錯");
-                Console.WriteLine();
-            }
-            
-            Console.Write("2. 請輸入要讀寫的檔案路徑->");
-            fname2 = Console.ReadLine();
-            try
-            {
-                f2 = new FileInfo(fname2);
+                //宣告StreamReader的sr物件, 用來讀出資料
+                StreamReader sr = new StreamReader(fname1);
+                temp = sr.ReadToEnd();
+                Console.WriteLine(temp);
+                                
+                //宣告StreamWriter的sw物件, 用來寫入資料
+               
+                StreamWriter sw = newfile.AppendText();///newfile.appendtext();
+                sw.Write(temp);
+                sw.Flush();
+                sw.Close();
+                
             }
             catch (Exception ex)
             {
@@ -47,7 +40,27 @@ namespace CH09_test
                 Console.WriteLine();
             }
 
-            
+            // 第二則
+            Console.Write("2. 請輸入要讀寫的檔案路徑->");
+            fname2 = Console.ReadLine();
+            try
+            {
+                StreamReader sr = new StreamReader(fname2);
+                temp = sr.ReadToEnd();
+                Console.WriteLine(temp);
+                StreamWriter sw = newfile.AppendText();///newfile.appendtext();
+                sw.Write(temp);
+                sw.Flush();
+                sw.Close();
+            } 
+            catch (Exception ex)
+            {
+                Console.WriteLine("檔案路徑有錯");
+                Console.WriteLine();
+            }
+            Console.WriteLine("==================");
+            Console.WriteLine("複製成功");
+            Console.Read();
         }
     }
 }
