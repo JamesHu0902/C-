@@ -73,9 +73,10 @@ namespace Entity1
                 foreach (var c in result)
                 {
                     txtResult.Text += "*" + c.類別名稱 + Environment.NewLine;
+                    txtResult.Text += "*類別最高單價" + result.Max().ToString() + Environment.NewLine;
                     foreach (var p in c.產品資料)
                     {
-                        txtResult.Text += "\t" + p.產品 +
+                        txtResult.Text += "\t" + p.產品 + "\t" + p.單價 +
                          Environment.NewLine;
                     }
                     txtResult.Text += "==================" +
