@@ -73,5 +73,18 @@ namespace WinStatusStrip
             num = photo.GetUpperBound(0);
             ShowPic();
         }
+
+        private void pictureBox1_MouseClick(object sender, MouseEventArgs e)
+        {
+            if(e.Button==MouseButtons.Right)
+            {
+                上一張ToolStripMenuItem_Click( sender,  e);
+            }
+            if (e.Button == MouseButtons.Left)
+            {
+                下一張ToolStripMenuItem_Click( sender,  e);
+            }
+        }
+
     }
 }

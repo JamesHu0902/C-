@@ -7,3 +7,13 @@ C:\cs2015\ch20\Linq_Method2\bin\Debug\Linq_Method2.exe
 C:\cs2015\ch20\Linq_Method2\bin\Debug\Linq_Method2.pdb
 C:\cs2015\ch20\Linq_Method2\obj\Debug\Linq_Method2.exe
 C:\cs2015\ch20\Linq_Method2\obj\Debug\Linq_Method2.pdb
+C:\Users\cinphown\source\cs2015_CD\ch20\Linq_Method2\bin\Debug\Linq_Method2.exe.config
+C:\Users\cinphown\source\cs2015_CD\ch20\Linq_Method2\bin\Debug\Linq_Method2.exe
+C:\Users\cinphown\source\cs2015_CD\ch20\Linq_Method2\bin\Debug\Linq_Method2.pdb
+C:\Users\cinphown\source\cs2015_CD\ch20\Linq_Method2\obj\Debug\Linq_Method2.csprojAssemblyReference.cache
+C:\Users\cinphown\source\cs2015_CD\ch20\Linq_Method2\obj\Debug\Linq_Method2.Form1.resources
+C:\Users\cinphown\source\cs2015_CD\ch20\Linq_Method2\obj\Debug\Linq_Method2.Properties.Resources.resources
+C:\Users\cinphown\source\cs2015_CD\ch20\Linq_Method2\obj\Debug\Linq_Method2.csproj.GenerateResource.cache
+C:\Users\cinphown\source\cs2015_CD\ch20\Linq_Method2\obj\Debug\Linq_Method2.csproj.CoreCompileInputs.cache
+C:\Users\cinphown\source\cs2015_CD\ch20\Linq_Method2\obj\Debug\Linq_Method2.exe
+C:\Users\cinphown\source\cs2015_CD\ch20\Linq_Method2\obj\Debug\Linq_Method2.pdb

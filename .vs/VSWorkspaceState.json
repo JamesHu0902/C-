@@ -1,16 +1,15 @@
 {
   "ExpandedNodes": [
     "",
-    "\\CH09test",
-    "\\CH09test\\CH09test3",
+    "\\ch09",
     "\\ch09\\ConsoleInheritsException",
-    "\\ch11",
-    "\\CH11test",
-    "\\CH11test\\CH09test2",
-    "\\CH11test\\CH11test",
-    "\\CH11test\\CH11test3",
-    "\\ch11\\WinListCombo"
+    "\\CH12test",
+    "\\CH12test\\CH12test2",
+    "\\ch19\\ReadXml",
+    "\\ch20",
+    "\\ch20\\Linq_Method2",
+    "\\ch20\\Linq_to_XML1"
   ],
-  "SelectedNode": "\\ch11\\WinListCombo\\Form1.cs",
+  "SelectedNode": "\\ch20\\Linq_Method2\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -7,3 +7,13 @@ c:\cs2015\ch13\WinStatusStrip\obj\Debug\WinStatusStrip.Properties.Resources.reso
 c:\cs2015\ch13\WinStatusStrip\obj\Debug\WinStatusStrip.csproj.GenerateResource.Cache
 c:\cs2015\ch13\WinStatusStrip\obj\Debug\WinStatusStrip.exe
 c:\cs2015\ch13\WinStatusStrip\obj\Debug\WinStatusStrip.pdb
+C:\Users\cinphown\source\cs2015_CD\ch13\WinStatusStrip\obj\Debug\WinStatusStrip.csprojAssemblyReference.cache
+C:\Users\cinphown\source\cs2015_CD\ch13\WinStatusStrip\obj\Debug\WinStatusStrip.Form1.resources
+C:\Users\cinphown\source\cs2015_CD\ch13\WinStatusStrip\obj\Debug\WinStatusStrip.Properties.Resources.resources
+C:\Users\cinphown\source\cs2015_CD\ch13\WinStatusStrip\obj\Debug\WinStatusStrip.csproj.GenerateResource.cache
+C:\Users\cinphown\source\cs2015_CD\ch13\WinStatusStrip\obj\Debug\WinStatusStrip.csproj.CoreCompileInputs.cache
+C:\Users\cinphown\source\cs2015_CD\ch13\WinStatusStrip\obj\Debug\WinStatusStrip.exe
+C:\Users\cinphown\source\cs2015_CD\ch13\WinStatusStrip\obj\Debug\WinStatusStrip.pdb
+C:\Users\cinphown\source\cs2015_CD\ch13\WinStatusStrip\bin\Debug\WinStatusStrip.exe.config
+C:\Users\cinphown\source\cs2015_CD\ch13\WinStatusStrip\bin\Debug\WinStatusStrip.exe
+C:\Users\cinphown\source\cs2015_CD\ch13\WinStatusStrip\bin\Debug\WinStatusStrip.pdb
